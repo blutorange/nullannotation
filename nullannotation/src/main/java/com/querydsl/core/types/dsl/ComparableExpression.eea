@@ -1,0 +1,19 @@
+class com/querydsl/core/types/dsl/ComparableExpression
+between
+ (TT;TT;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (TT;TT;)L1com/querydsl/core/types/dsl/BooleanExpression;
+goe
+ (TT;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (TT;)L1com/querydsl/core/types/dsl/BooleanExpression;
+gt
+ (TT;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (TT;)L1com/querydsl/core/types/dsl/BooleanExpression;
+loe
+ (TT;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (TT;)L1com/querydsl/core/types/dsl/BooleanExpression;
+lt
+ (TT;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (TT;)L1com/querydsl/core/types/dsl/BooleanExpression;
+notBetween
+ (TT;TT;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (TT;TT;)L1com/querydsl/core/types/dsl/BooleanExpression;

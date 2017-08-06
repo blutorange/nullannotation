@@ -1,0 +1,16 @@
+class java/lang/String
+substring
+ (I)Ljava/lang/String;
+ (I)L1java/lang/String;
+substring
+ (II)Ljava/lang/String;
+ (II)L1java/lang/String;
+toLowerCase
+ (Ljava/util/Locale;)Ljava/lang/String;
+ (Ljava/util/Locale;)L1java/lang/String;
+toUpperCase
+ (Ljava/util/Locale;)Ljava/lang/String;
+ (L1java/util/Locale;)L1java/lang/String;
+valueOf
+ (I)Ljava/lang/String;
+ (I)L1java/lang/String;

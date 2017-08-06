@@ -1,0 +1,4 @@
+class com/alibaba/fastjson/JSONArray
+iterator
+ ()Ljava/util/Iterator<Ljava/lang/Object;>;
+ ()L1java/util/Iterator<L0java/lang/Object;>;

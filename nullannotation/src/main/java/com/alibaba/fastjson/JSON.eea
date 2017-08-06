@@ -1,0 +1,4 @@
+class com/alibaba/fastjson/JSON
+parseObject
+ (Ljava/lang/String;)Lcom/alibaba/fastjson/JSONObject;
+ (Ljava/lang/String;)L0com/alibaba/fastjson/JSONObject;

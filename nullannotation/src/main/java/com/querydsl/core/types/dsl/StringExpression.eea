@@ -1,0 +1,10 @@
+class com/querydsl/core/types/dsl/StringExpression
+contains
+ (Ljava/lang/String;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (Ljava/lang/String;)L1com/querydsl/core/types/dsl/BooleanExpression;
+endsWith
+ (Ljava/lang/String;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (Ljava/lang/String;)L1com/querydsl/core/types/dsl/BooleanExpression;
+startsWith
+ (Ljava/lang/String;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (Ljava/lang/String;)L1com/querydsl/core/types/dsl/BooleanExpression;

@@ -1,0 +1,22 @@
+class com/querydsl/core/types/dsl/SimpleExpression
+eq
+ (Lcom/querydsl/core/types/Expression<-TT;>;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (Lcom/querydsl/core/types/Expression<-TT;>;)L1com/querydsl/core/types/dsl/BooleanExpression;
+eq
+ (TT;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (TT;)L1com/querydsl/core/types/dsl/BooleanExpression;
+in
+ ([TT;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ ([TT;)L1com/querydsl/core/types/dsl/BooleanExpression;
+isNotNull
+ ()Lcom/querydsl/core/types/dsl/BooleanExpression;
+ ()L1com/querydsl/core/types/dsl/BooleanExpression;
+isNull
+ ()Lcom/querydsl/core/types/dsl/BooleanExpression;
+ ()L1com/querydsl/core/types/dsl/BooleanExpression;
+ne
+ (TT;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (TT;)L1com/querydsl/core/types/dsl/BooleanExpression;
+notIn
+ ([TT;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ ([TT;)L1com/querydsl/core/types/dsl/BooleanExpression;

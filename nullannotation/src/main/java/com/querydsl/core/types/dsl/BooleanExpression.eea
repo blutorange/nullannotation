@@ -1,0 +1,10 @@
+class com/querydsl/core/types/dsl/BooleanExpression
+and
+ (Lcom/querydsl/core/types/Predicate;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (Lcom/querydsl/core/types/Predicate;)L1com/querydsl/core/types/dsl/BooleanExpression;
+not
+ ()Lcom/querydsl/core/types/dsl/BooleanExpression;
+ ()L1com/querydsl/core/types/dsl/BooleanExpression;
+or
+ (Lcom/querydsl/core/types/Predicate;)Lcom/querydsl/core/types/dsl/BooleanExpression;
+ (Lcom/querydsl/core/types/Predicate;)L1com/querydsl/core/types/dsl/BooleanExpression;

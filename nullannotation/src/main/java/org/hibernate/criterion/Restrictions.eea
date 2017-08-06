@@ -1,0 +1,49 @@
+class org/hibernate/criterion/Restrictions
+and
+ (Lorg/hibernate/criterion/Criterion;Lorg/hibernate/criterion/Criterion;)Lorg/hibernate/criterion/LogicalExpression;
+ (Lorg/hibernate/criterion/Criterion;Lorg/hibernate/criterion/Criterion;)L1org/hibernate/criterion/LogicalExpression;
+between
+ (Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)Lorg/hibernate/criterion/Criterion;
+ (Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)L1org/hibernate/criterion/Criterion;
+eq
+ (Ljava/lang/String;Ljava/lang/Object;)Lorg/hibernate/criterion/SimpleExpression;
+ (Ljava/lang/String;Ljava/lang/Object;)L1org/hibernate/criterion/SimpleExpression;
+ge
+ (Ljava/lang/String;Ljava/lang/Object;)Lorg/hibernate/criterion/SimpleExpression;
+ (Ljava/lang/String;Ljava/lang/Object;)L1org/hibernate/criterion/SimpleExpression;
+gt
+ (Ljava/lang/String;Ljava/lang/Object;)Lorg/hibernate/criterion/SimpleExpression;
+ (Ljava/lang/String;Ljava/lang/Object;)L1org/hibernate/criterion/SimpleExpression;
+ilike
+ (Ljava/lang/String;Ljava/lang/String;Lorg/hibernate/criterion/MatchMode;)Lorg/hibernate/criterion/Criterion;
+ (Ljava/lang/String;Ljava/lang/String;Lorg/hibernate/criterion/MatchMode;)L1org/hibernate/criterion/Criterion;
+in
+ (Ljava/lang/String;[Ljava/lang/Object;)Lorg/hibernate/criterion/Criterion;
+ (Ljava/lang/String;[Ljava/lang/Object;)L1org/hibernate/criterion/Criterion;
+isEmpty
+ (Ljava/lang/String;)Lorg/hibernate/criterion/Criterion;
+ (Ljava/lang/String;)L1org/hibernate/criterion/Criterion;
+isNotEmpty
+ (Ljava/lang/String;)Lorg/hibernate/criterion/Criterion;
+ (Ljava/lang/String;)L1org/hibernate/criterion/Criterion;
+isNotNull
+ (Ljava/lang/String;)Lorg/hibernate/criterion/Criterion;
+ (Ljava/lang/String;)L1org/hibernate/criterion/Criterion;
+isNull
+ (Ljava/lang/String;)Lorg/hibernate/criterion/Criterion;
+ (Ljava/lang/String;)L1org/hibernate/criterion/Criterion;
+le
+ (Ljava/lang/String;Ljava/lang/Object;)Lorg/hibernate/criterion/SimpleExpression;
+ (Ljava/lang/String;Ljava/lang/Object;)L1org/hibernate/criterion/SimpleExpression;
+lt
+ (Ljava/lang/String;Ljava/lang/Object;)Lorg/hibernate/criterion/SimpleExpression;
+ (Ljava/lang/String;Ljava/lang/Object;)L1org/hibernate/criterion/SimpleExpression;
+ne
+ (Ljava/lang/String;Ljava/lang/Object;)Lorg/hibernate/criterion/SimpleExpression;
+ (Ljava/lang/String;Ljava/lang/Object;)L1org/hibernate/criterion/SimpleExpression;
+not
+ (Lorg/hibernate/criterion/Criterion;)Lorg/hibernate/criterion/Criterion;
+ (Lorg/hibernate/criterion/Criterion;)L1org/hibernate/criterion/Criterion;
+or
+ (Lorg/hibernate/criterion/Criterion;Lorg/hibernate/criterion/Criterion;)Lorg/hibernate/criterion/LogicalExpression;
+ (Lorg/hibernate/criterion/Criterion;Lorg/hibernate/criterion/Criterion;)L1org/hibernate/criterion/LogicalExpression;

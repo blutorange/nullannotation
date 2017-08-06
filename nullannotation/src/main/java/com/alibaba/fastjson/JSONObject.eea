@@ -1,0 +1,7 @@
+class com/alibaba/fastjson/JSONObject
+getJSONArray
+ (Ljava/lang/String;)Lcom/alibaba/fastjson/JSONArray;
+ (Ljava/lang/String;)L0com/alibaba/fastjson/JSONArray;
+getString
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L0java/lang/String;
