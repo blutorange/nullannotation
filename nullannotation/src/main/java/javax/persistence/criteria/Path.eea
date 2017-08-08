@@ -1,0 +1,4 @@
+class javax/persistence/criteria/Path
+get
+ <Y:Ljava/lang/Object;>(Ljava/lang/String;)Ljavax/persistence/criteria/Path<TY;>;
+ <Y:Ljava/lang/Object;>(Ljava/lang/String;)L1javax/persistence/criteria/Path<TY;>;

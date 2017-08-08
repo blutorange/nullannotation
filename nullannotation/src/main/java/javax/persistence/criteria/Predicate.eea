@@ -1,0 +1,4 @@
+class javax/persistence/criteria/Predicate
+not
+ ()Ljavax/persistence/criteria/Predicate;
+ ()L1javax/persistence/criteria/Predicate;

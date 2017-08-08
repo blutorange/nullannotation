@@ -1,0 +1,43 @@
+class javax/persistence/criteria/CriteriaBuilder
+and
+ (Ljavax/persistence/criteria/Expression<Ljava/lang/Boolean;>;Ljavax/persistence/criteria/Expression<Ljava/lang/Boolean;>;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<Ljava/lang/Boolean;>;Ljavax/persistence/criteria/Expression<Ljava/lang/Boolean;>;)L1javax/persistence/criteria/Predicate;
+between
+ <Y::Ljava/lang/Comparable<-TY;>;>(Ljavax/persistence/criteria/Expression<+TY;>;TY;TY;)Ljavax/persistence/criteria/Predicate;
+ <Y::Ljava/lang/Comparable<-TY;>;>(Ljavax/persistence/criteria/Expression<+TY;>;TY;TY;)L1javax/persistence/criteria/Predicate;
+equal
+ (Ljavax/persistence/criteria/Expression<*>;Ljava/lang/Object;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<*>;Ljava/lang/Object;)L1javax/persistence/criteria/Predicate;
+equal
+ (Ljavax/persistence/criteria/Expression<*>;Ljavax/persistence/criteria/Expression<*>;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<*>;Ljavax/persistence/criteria/Expression<*>;)L1javax/persistence/criteria/Predicate;
+ge
+ (Ljavax/persistence/criteria/Expression<+Ljava/lang/Number;>;Ljava/lang/Number;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<+Ljava/lang/Number;>;Ljava/lang/Number;)L1javax/persistence/criteria/Predicate;
+gt
+ (Ljavax/persistence/criteria/Expression<+Ljava/lang/Number;>;Ljava/lang/Number;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<+Ljava/lang/Number;>;Ljava/lang/Number;)L1javax/persistence/criteria/Predicate;
+isNotNull
+ (Ljavax/persistence/criteria/Expression<*>;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<*>;)L1javax/persistence/criteria/Predicate;
+isNull
+ (Ljavax/persistence/criteria/Expression<*>;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<*>;)L1javax/persistence/criteria/Predicate;
+le
+ (Ljavax/persistence/criteria/Expression<+Ljava/lang/Number;>;Ljava/lang/Number;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<+Ljava/lang/Number;>;Ljava/lang/Number;)L1javax/persistence/criteria/Predicate;
+like
+ (Ljavax/persistence/criteria/Expression<Ljava/lang/String;>;Ljava/lang/String;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<Ljava/lang/String;>;Ljava/lang/String;)L1javax/persistence/criteria/Predicate;
+lt
+ (Ljavax/persistence/criteria/Expression<+Ljava/lang/Number;>;Ljava/lang/Number;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<+Ljava/lang/Number;>;Ljava/lang/Number;)L1javax/persistence/criteria/Predicate;
+notEqual
+ (Ljavax/persistence/criteria/Expression<*>;Ljava/lang/Object;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<*>;Ljava/lang/Object;)L1javax/persistence/criteria/Predicate;
+notLike
+ (Ljavax/persistence/criteria/Expression<Ljava/lang/String;>;Ljava/lang/String;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<Ljava/lang/String;>;Ljava/lang/String;)L1javax/persistence/criteria/Predicate;
+or
+ (Ljavax/persistence/criteria/Expression<Ljava/lang/Boolean;>;Ljavax/persistence/criteria/Expression<Ljava/lang/Boolean;>;)Ljavax/persistence/criteria/Predicate;
+ (Ljavax/persistence/criteria/Expression<Ljava/lang/Boolean;>;Ljavax/persistence/criteria/Expression<Ljava/lang/Boolean;>;)L1javax/persistence/criteria/Predicate;

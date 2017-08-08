@@ -1,0 +1,4 @@
+class javax/persistence/criteria/Expression
+in
+ ([Ljava/lang/Object;)Ljavax/persistence/criteria/Predicate;
+ ([Ljava/lang/Object;)L1javax/persistence/criteria/Predicate;
