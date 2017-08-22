@@ -1,0 +1,4 @@
+class javax/ws/rs/container/ContainerResponseFilter
+filter
+ (Ljavax/ws/rs/container/ContainerRequestContext;Ljavax/ws/rs/container/ContainerResponseContext;)V
+ (L1javax/ws/rs/container/ContainerRequestContext;L1javax/ws/rs/container/ContainerResponseContext;)V

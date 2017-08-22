@@ -1,0 +1,7 @@
+class javax/persistence/TypedQuery
+getResultList
+ ()Ljava/util/List<TX;>;
+ ()L1java/util/List<TX;>;
+getSingleResult
+ ()TX;
+ ()T0X;

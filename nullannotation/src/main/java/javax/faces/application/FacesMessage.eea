@@ -1,0 +1,13 @@
+class javax/faces/application/FacesMessage
+SEVERITY_ERROR
+ Ljavax/faces/application/FacesMessage$Severity;
+ L1javax/faces/application/FacesMessage$Severity;
+SEVERITY_FATAL
+ Ljavax/faces/application/FacesMessage$Severity;
+ L1javax/faces/application/FacesMessage$Severity;
+SEVERITY_INFO
+ Ljavax/faces/application/FacesMessage$Severity;
+ L1javax/faces/application/FacesMessage$Severity;
+SEVERITY_WARN
+ Ljavax/faces/application/FacesMessage$Severity;
+ L1javax/faces/application/FacesMessage$Severity;

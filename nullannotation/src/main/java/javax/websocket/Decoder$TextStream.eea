@@ -1,0 +1,4 @@
+class javax/websocket/Decoder$TextStream
+decode
+ (Ljava/io/Reader;)TT;
+ (L1java/io/Reader;)TT;

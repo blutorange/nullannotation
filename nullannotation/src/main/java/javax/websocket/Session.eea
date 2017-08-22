@@ -1,0 +1,19 @@
+class javax/websocket/Session
+getMessageHandlers
+ ()Ljava/util/Set<Ljavax/websocket/MessageHandler;>;
+ ()L1java/util/Set<Ljavax/websocket/MessageHandler;>;
+getNegotiatedExtensions
+ ()Ljava/util/List<Ljavax/websocket/Extension;>;
+ ()L1java/util/List<Ljavax/websocket/Extension;>;
+getOpenSessions
+ ()Ljava/util/Set<Ljavax/websocket/Session;>;
+ ()L1java/util/Set<Ljavax/websocket/Session;>;
+getPathParameters
+ ()Ljava/util/Map<Ljava/lang/String;Ljava/lang/String;>;
+ ()L1java/util/Map<Ljava/lang/String;Ljava/lang/String;>;
+getRequestParameterMap
+ ()Ljava/util/Map<Ljava/lang/String;Ljava/util/List<Ljava/lang/String;>;>;
+ ()L1java/util/Map<Ljava/lang/String;Ljava/util/List<Ljava/lang/String;>;>;
+getUserProperties
+ ()Ljava/util/Map<Ljava/lang/String;Ljava/lang/Object;>;
+ ()L1java/util/Map<Ljava/lang/String;Ljava/lang/Object;>;

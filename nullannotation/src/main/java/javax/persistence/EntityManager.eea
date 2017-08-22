@@ -1,0 +1,10 @@
+class javax/persistence/EntityManager
+createQuery
+ <T:Ljava/lang/Object;>(Ljavax/persistence/criteria/CriteriaQuery<TT;>;)Ljavax/persistence/TypedQuery<TT;>;
+ <T:Ljava/lang/Object;>(Ljavax/persistence/criteria/CriteriaQuery<TT;>;)L1javax/persistence/TypedQuery<TT;>;
+find
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;Ljava/lang/Object;)TT;
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;Ljava/lang/Object;)T0T;
+unwrap
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;)TT;
+ <T:Ljava/lang/Object;>(L1java/lang/Class<T1T;>;)T1T;

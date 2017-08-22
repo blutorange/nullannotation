@@ -1,0 +1,4 @@
+class javax/websocket/Encoder
+init
+ (Ljavax/websocket/EndpointConfig;)V
+ (L1javax/websocket/EndpointConfig;)V

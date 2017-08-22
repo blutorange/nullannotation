@@ -1,0 +1,4 @@
+class javax/persistence/criteria/AbstractQuery
+from
+ <X:Ljava/lang/Object;>(Ljava/lang/Class<TX;>;)Ljavax/persistence/criteria/Root<TX;>;
+ <X:Ljava/lang/Object;>(Ljava/lang/Class<TX;>;)L1javax/persistence/criteria/Root<TX;>;

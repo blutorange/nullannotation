@@ -1,0 +1,4 @@
+class javax/persistence/EntityManagerFactory
+createEntityManager
+ ()Ljavax/persistence/EntityManager;
+ ()L1javax/persistence/EntityManager;

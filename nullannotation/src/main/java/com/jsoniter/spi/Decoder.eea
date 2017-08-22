@@ -1,0 +1,4 @@
+class com/jsoniter/spi/Decoder
+decode
+ (Lcom/jsoniter/JsonIterator;)Ljava/lang/Object;
+ (L1com/jsoniter/JsonIterator;)L0java/lang/Object;

@@ -1,0 +1,7 @@
+class javax/websocket/RemoteEndpoint$Async
+sendObject
+ (Ljava/lang/Object;)Ljava/util/concurrent/Future<Ljava/lang/Void;>;
+ (Ljava/lang/Object;)L1java/util/concurrent/Future<L0java/lang/Void;>;
+sendText
+ (Ljava/lang/String;)Ljava/util/concurrent/Future<Ljava/lang/Void;>;
+ (Ljava/lang/String;)L1java/util/concurrent/Future<L0java/lang/Void;>;

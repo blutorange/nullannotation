@@ -1,0 +1,7 @@
+class javax/websocket/Decoder$Text
+decode
+ (Ljava/lang/String;)TT;
+ (L1java/lang/String;)T1T;
+willDecode
+ (Ljava/lang/String;)Z
+ (L0java/lang/String;)Z

@@ -1,0 +1,4 @@
+class com/jsoniter/spi/Encoder
+encode
+ (Ljava/lang/Object;Lcom/jsoniter/output/JsonStream;)V
+ (Ljava/lang/Object;L1com/jsoniter/output/JsonStream;)V

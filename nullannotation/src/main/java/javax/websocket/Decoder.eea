@@ -1,0 +1,4 @@
+class javax/websocket/Decoder
+init
+ (Ljavax/websocket/EndpointConfig;)V
+ (L1javax/websocket/EndpointConfig;)V

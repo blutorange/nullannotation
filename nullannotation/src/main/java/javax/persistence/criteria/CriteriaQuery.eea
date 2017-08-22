@@ -1,0 +1,4 @@
+class javax/persistence/criteria/CriteriaQuery
+select
+ (Ljavax/persistence/criteria/Selection<+TT;>;)Ljavax/persistence/criteria/CriteriaQuery<TT;>;
+ (Ljavax/persistence/criteria/Selection<+T0T;>;)L1javax/persistence/criteria/CriteriaQuery<TT;>;

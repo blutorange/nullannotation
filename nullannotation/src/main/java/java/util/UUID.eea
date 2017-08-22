@@ -1,0 +1,7 @@
+class java/util/UUID
+randomUUID
+ ()Ljava/util/UUID;
+ ()L1java/util/UUID;
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

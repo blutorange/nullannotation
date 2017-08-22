@@ -5,6 +5,9 @@ and
 between
  <Y::Ljava/lang/Comparable<-TY;>;>(Ljavax/persistence/criteria/Expression<+TY;>;TY;TY;)Ljavax/persistence/criteria/Predicate;
  <Y::Ljava/lang/Comparable<-TY;>;>(Ljavax/persistence/criteria/Expression<+TY;>;TY;TY;)L1javax/persistence/criteria/Predicate;
+count
+ (Ljavax/persistence/criteria/Expression<*>;)Ljavax/persistence/criteria/Expression<Ljava/lang/Long;>;
+ (Ljavax/persistence/criteria/Expression<*>;)L1javax/persistence/criteria/Expression<Ljava/lang/Long;>;
 equal
  (Ljavax/persistence/criteria/Expression<*>;Ljava/lang/Object;)Ljavax/persistence/criteria/Predicate;
  (Ljavax/persistence/criteria/Expression<*>;Ljava/lang/Object;)L1javax/persistence/criteria/Predicate;

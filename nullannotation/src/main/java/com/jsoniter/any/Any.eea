@@ -1,0 +1,7 @@
+class com/jsoniter/any/Any
+as
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;)TT;
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;)T0T;
+as
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;[Ljava/lang/Object;)TT;
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;[Ljava/lang/Object;)T0T;

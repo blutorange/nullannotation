@@ -1,0 +1,4 @@
+class javax/websocket/Decoder$BinaryStream
+decode
+ (Ljava/io/InputStream;)TT;
+ (L1java/io/InputStream;)T1T;

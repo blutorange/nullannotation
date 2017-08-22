@@ -1,0 +1,4 @@
+class com/jsoniter/spi/Decoder$BooleanDecoder
+decode
+ (Lcom/jsoniter/JsonIterator;)Ljava/lang/Object;
+ (L1com/jsoniter/JsonIterator;)Ljava/lang/Object;
