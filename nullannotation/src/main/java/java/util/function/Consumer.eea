@@ -1,4 +1,4 @@
 class java/util/function/Consumer
 accept
  (TT;)V
- (T0T;)V
+ (TT;)V

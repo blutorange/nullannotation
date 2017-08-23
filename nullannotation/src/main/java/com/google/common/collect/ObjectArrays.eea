@@ -1,0 +1,4 @@
+class com/google/common/collect/ObjectArrays
+concat
+ <T:Ljava/lang/Object;>([TT;[TT;Ljava/lang/Class<TT;>;)[TT;
+ <T:Ljava/lang/Object;>([1T0T;[1T0T;L1java/lang/Class<TT;>;)[1TT;
