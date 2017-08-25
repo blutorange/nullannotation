@@ -1,0 +1,4 @@
+class java/util/stream/Stream
+findAny
+ ()Ljava/util/Optional<TT;>;
+ ()Ljava/util/Optional<T1T;>;
