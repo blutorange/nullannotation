@@ -1,0 +1,7 @@
+class org/quartz/Trigger
+getNextFireTime
+ ()Ljava/util/Date;
+ ()L0java/util/Date;
+getPreviousFireTime
+ ()Ljava/util/Date;
+ ()L0java/util/Date;

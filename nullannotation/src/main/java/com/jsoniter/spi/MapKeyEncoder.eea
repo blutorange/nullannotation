@@ -1,0 +1,4 @@
+class com/jsoniter/spi/MapKeyEncoder
+encode
+ (Ljava/lang/Object;)Ljava/lang/String;
+ (L0java/lang/Object;)Ljava/lang/String;

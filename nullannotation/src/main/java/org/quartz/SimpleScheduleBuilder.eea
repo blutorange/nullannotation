@@ -1,0 +1,10 @@
+class org/quartz/SimpleScheduleBuilder
+repeatForever
+ ()Lorg/quartz/SimpleScheduleBuilder;
+ ()L1org/quartz/SimpleScheduleBuilder;
+simpleSchedule
+ ()Lorg/quartz/SimpleScheduleBuilder;
+ ()L1org/quartz/SimpleScheduleBuilder;
+withIntervalInMinutes
+ (I)Lorg/quartz/SimpleScheduleBuilder;
+ (I)L1org/quartz/SimpleScheduleBuilder;

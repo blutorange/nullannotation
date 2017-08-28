@@ -1,0 +1,4 @@
+class org/quartz/Scheduler
+getTriggersOfJob
+ (Lorg/quartz/JobKey;)Ljava/util/List<+Lorg/quartz/Trigger;>;
+ (Lorg/quartz/JobKey;)L1java/util/List<+L1org/quartz/Trigger;>;

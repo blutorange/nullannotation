@@ -1,0 +1,4 @@
+class com/jsoniter/spi/MapKeyDecoder
+decode
+ (Lcom/jsoniter/spi/Slice;)Ljava/lang/Object;
+ (L0com/jsoniter/spi/Slice;)L0java/lang/Object;
